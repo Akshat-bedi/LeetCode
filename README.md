@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshat-bedi/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-bedi/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-bedi/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
