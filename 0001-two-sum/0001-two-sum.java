@@ -9,7 +9,7 @@ class Solution {
             compliment = target - nums[i];
             
             if(map.containsKey(compliment) && map.get(compliment) != i){
-                return new int[] {map.get(compliment),i};
+                return new int[] {i,map.get(compliment)};
             }
         }
         return new int[]{};
