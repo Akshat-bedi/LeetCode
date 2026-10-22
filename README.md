@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Akshat-bedi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Akshat-bedi/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akshat-bedi/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Akshat-bedi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshat-bedi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-bedi/LeetCode/tree/master/0283-move-zeroes) |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Akshat-bedi/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akshat-bedi/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
